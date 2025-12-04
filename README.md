@@ -3,9 +3,9 @@
 
 A comprehensive, evidence-based nutrition dashboard designed for dietitians and healthcare professionals working with mothers and children. This interactive web application provides clinical guidelines, nutrient recommendations, and practical resources across seven critical life stages.
 
-![Dashboard Preview](https://img.shields.io/badge/React-18.x-blue) ![License](https://img.shields.io/badge/license-MIT-green)
+![Dashboard Preview](https://img.shields.io/badge/React-18.x-blue) 
 
-## 🎯 Purpose
+## Purpose
 
 This dashboard serves as a clinical reference tool for dietitians, nutritionists, and healthcare providers to:
 - Access evidence-based nutrition guidelines for maternal and child health
@@ -14,9 +14,9 @@ This dashboard serves as a clinical reference tool for dietitians, nutritionists
 - Provide culturally appropriate meal plans for families using SNAP/WIC benefits
 - Support health equity by addressing disparities in maternal and child nutrition
 
-## ✨ Key Features
+## Key Features
 
-### 📊 Seven Life Stages Covered
+### 📊 Stages of Human Development
 - **Preconception** - Preparing for pregnancy
 - **Pregnancy** - Prenatal nutrition
 - **Postpartum** - Recovery and lactation support
@@ -25,19 +25,19 @@ This dashboard serves as a clinical reference tool for dietitians, nutritionists
 - **Child (4-8 years)** - School-age nutrition
 - **Adolescent (9-18 years)** - Pre-teen and teen health and development
 
-### 🔍 Interactive Features
+### Interactive Features
 - **Smart Search**: Search across all stages for specific nutrients, guidelines, or conditions
 - **Stage-Specific Content**: Detailed nutrient recommendations with evidence-based rationales
 - **Clinical Red Flags**: Alert system for high-risk nutritional concerns
 - **Health Equity Focus**: Highlights populations at increased risk for deficiencies
 
-### 📋 Practical Resources
+### Practical Resources
 - **Sample Meal Plans**: SNAP and WIC-approved meal examples for each life stage
 - **Supplement Guidelines**: Evidence-based supplementation protocols with dosing and timing
 - **Food Safety Guide**: Stage-appropriate safety recommendations
 - **Food Assistance Resources**: Direct links to SNAP, WIC, food banks, and community resources
 
-## 🏥 Evidence-Based Guidelines
+## Evidence-Based Guidelines
 
 This dashboard integrates recommendations from:
 - **ACOG** (American College of Obstetricians and Gynecologists)
@@ -46,7 +46,7 @@ This dashboard integrates recommendations from:
 - **Dietary Guidelines for Americans 2020-2025**
 - **USDA Food and Nutrition Service**
 
-## 🛠️ Technology Stack
+## Tech Stack
 
 - **Frontend Framework**: React 18.x
 - **UI Components**: Lucide React icons
@@ -54,7 +54,7 @@ This dashboard integrates recommendations from:
 - **Build Tool**: Vite
 - **Deployment**: GitHub Pages compatible
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Node.js (v16 or higher)
@@ -82,7 +82,7 @@ npm run build
 
 The built files will be in the `dist` directory.
 
-## 📱 Usage
+## Usage
 
 ### For Healthcare Providers
 
@@ -91,14 +91,6 @@ The built files will be in the `dist` directory.
 3. **Check Red Flags**: Review warning signs that require immediate attention
 4. **Access Resources**: Use the Quick Actions sidebar to view meal plans, supplements, and food safety guidelines
 5. **Search Functionality**: Use the search bar to quickly find information across all stages
-
-### For Patient Education
-
-The dashboard includes downloadable patient handouts (feature in development) and links to free resources including:
-- Food assistance program locators
-- Budget-friendly recipe databases
-- Breastfeeding support services
-- Culturally diverse meal planning resources
 
 ## 🎨 Features Walkthrough
 
@@ -134,7 +126,7 @@ To add or modify nutritional guidelines:
 3. Include evidence source (ACOG, AAP, DRI)
 4. Mark priority level using 🔴 or ⚠️ emojis
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! This dashboard benefits from:
 - Updated clinical guidelines
